@@ -34,7 +34,3 @@ We welcome contributions! Follow these steps:
 2️⃣ Create a Feature Branch  
 3️⃣ Commit Your Changes  
 4️⃣ Open a Pull Request 
-
-📞 Contact  
-📧 Email: saduvenkatesh141205@gmail.com  
-📞 Phone: +91 8555015489  
