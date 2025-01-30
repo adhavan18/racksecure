@@ -27,7 +27,11 @@ RackSecure is an advanced AI-based theft detection system designed for monitorin
 
 
 ## 📍 Use Cases
-✅ **Libraries** – Prevent unauthorized book removals.
+✅ **Libraries** – Prevent unauthorized book removals
+
+https://github.com/user-attachments/assets/c145ea88-fbd5-4e8b-bf79-ec420f5b8c88
+
+.
 ✅ **Gyms** – Protect personal belongings in shared storage spaces.
 ✅ **Schools & Hostels** – Prevent unauthorized borrowing of items.
 ✅ **Warehouses & Retail Supermarkets** – Secure inventory from theft.
