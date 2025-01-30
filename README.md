@@ -17,8 +17,6 @@ RackSecure is an advanced AI-based theft detection system designed for monitorin
 
 ![WhatsApp Image 2025-01-30 at 05 41 44_a88fad83](https://github.com/user-attachments/assets/6ecccf47-9607-4a40-89c0-c6d5854b4c1b)
 
----
-
 ## 🚀 Features
 ✔ **Real-Time Surveillance** – Monitors racks continuously to detect any movement.
 ✔ **Unauthorized Access Detection** – Distinguishes between owners and potential intruders.
@@ -28,43 +26,19 @@ RackSecure is an advanced AI-based theft detection system designed for monitorin
 
 
 
----
-
 ## 📍 Use Cases
 ✅ **Libraries** – Prevent unauthorized book removals.
 ✅ **Gyms** – Protect personal belongings in shared storage spaces.
 ✅ **Schools & Hostels** – Prevent unauthorized borrowing of items.
-✅ **Warehouses & Retail** – Secure inventory from theft.
+✅ **Warehouses & Retail Supermarkets** – Secure inventory from theft.
 
----
+![theif](https://github.com/user-attachments/assets/f1277a58-8b1e-46e4-80a0-4a5eec2719fe)
+
 
 ## 📡 Future Enhancements
 🔹 **Facial Recognition** – Identify individuals removing items.
 🔹 **Database Integration** – Maintain records of past incidents.
-🔹 **Web Dashboard** – Remotely monitor racks via a centralized platform.
 
----
 
 ## 📬 Theft Detection Email Notification
-![Email Notification](./images/email_alert.png)
-*Image 4: Gmail API triggered email notification for theft detection*
-
----
-
-## 🤝 How to Contribute
-We welcome contributions! Follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Commit your changes with clear messages.
-4. Submit a pull request for review.
-
-### 📜 License
-This project is licensed under the MIT License.
-
-### 📞 Contact
-For any inquiries, feel free to reach out at [your email here].
-
----
-
-🌟 **Star this repository** if you find it useful!
-
+![email](https://github.com/user-attachments/assets/95c82bf6-20af-49a5-b32f-e9745de7a454)
