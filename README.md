@@ -29,7 +29,9 @@ RackSecure is an AI-driven theft detection system that monitors publicly shared 
 🔹 Web Dashboard– Monitor racks remotely  
 
 🤝 Contribute to RackSecure  
-We welcome contributions! Follow these steps:  
+We welcome contributions! Follow these steps:  ![a2](https://github.com/user-attachments/assets/7dc80c6b-643d-4bf7-b945-282ddac3d19a)
+![WhatsApp Image 2025-01-30 at 05 41 44_a88fad83](https://github.com/user-attachments/assets/6ecccf47-9607-4a40-89c0-c6d5854b4c1b)
+
 1️⃣ Fork the Repository  
 2️⃣ Create a Feature Branch  
 3️⃣ Commit Your Changes  
